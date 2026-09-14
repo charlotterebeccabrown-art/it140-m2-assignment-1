@@ -2,33 +2,23 @@
 
 ## Introduction
 
-> Write a short reflection on your experience using the course IDE to complete your first programming assignment. Briefly describe what it was like to write, run, and test code in an IDE for the first time. Introduce the three IDE features you selected and briefly explain why learning to use IDE features can help you as a beginning programmer. Save specific examples for the feature sections below. Delete these instructions when done.
+While I did not have an issue with code in the modules or labs I have tremendous difficulties working with Codio and VSC. 
 
-TODO: Replace with your introduction here.
+Feature 1:
 
-## Feature 1 – TODO: Replace with name of your Feature1
+The auto-populated suggestion is a great tool for new beginners. The feature helps the user with the anticipated verbage and symbols used in the code. I frequently misspell words and it was especially helpful to reduce syntax errors.
 
-> In one paragraph, identify the first feature you selected, explain what it does, and describe how it helped you while developing or testing your program. Include specific details about how it improved your workflow, made coding easier, or helped you find and fix errors more efficiently. Delete these instructions when done.
+Feature 2:
 
-TODO: Replace with your Feature 1 paragraph here.
+The color coding of features helped identify the expected functionality of each item in the code. From a glance a beginners can anticipate what code will be gathered from a repository, information gathered from user input and what will be displayed to the user in output.
 
-## Feature 2 – TODO: Replace with name of your Feature2
+Feature 3:
 
-> Write one paragraph explaining your second feature. Describe how it functions, what benefits it provided while coding, and why it might be valuable for beginning programmers. Connect the feature to your personal experience using it in this project. Delete these instructions when done.
+I had a tremendous amount of difficulty setting up and navigating the Codio and VSC and hope to learn more about the navigation through tutorials. I am currently still triyng to figure out how to save the requested files and attach them to the assignment for credit. Hopefully the next assignment will be a smoother process.
 
-TODO: Replace with your Feature 2 paragraph here.
 
-## Feature 3 – TODO: Replace with name of your Feature3
 
-> In a single paragraph, identify and explain a third IDE feature. Discuss how it enhanced your programming experience or supported best practices such as readability, debugging, or organization. Give a brief, real example of how you used it. Delete these instructions when done.
 
-TODO: Replace with your Feature 3 paragraph here.
-
-## Conclusion
-
-> Summarize what you learned from using your IDE in this assignment. Reflect on how these features will support your future programming work and improve your confidence as a new programmer. Delete these instructions when done.
-
-TODO: Replace with your conclusion here.
 
 ## References
 
